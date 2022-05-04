@@ -146,10 +146,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>C</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>D</apexClass>
         <enabled>true</enabled>
     </classAccesses>
