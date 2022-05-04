@@ -321,6 +321,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Field_Use_In_Flow__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Field Use In Flow</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Test_Pipeline_Sync__c</fullName>
         <externalId>false</externalId>
         <label>Test Pipeline Sync</label>
